@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ab9Ev104wI0QGyruf96VlJDzLbcmWrPmk134ks/gSMqagCE12vNy1bVzQkN1xH2KWGnWDfw02oFdL7gM/c8+ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\krln_\\source\\repos\\ETicaretAPI\\ETicaretAPI.Presentation\\ETicaretAPI.Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krln_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\krln_\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\krln_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

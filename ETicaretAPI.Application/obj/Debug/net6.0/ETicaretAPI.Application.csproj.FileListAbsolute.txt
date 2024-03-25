@@ -1,0 +1,15 @@
+C:\Users\krln_\source\repos\ETicaretAPI\ETicaretAPI.Application\bin\Debug\net6.0\ETicaretAPI.Application.deps.json
+C:\Users\krln_\source\repos\ETicaretAPI\ETicaretAPI.Application\bin\Debug\net6.0\ETicaretAPI.Application.dll
+C:\Users\krln_\source\repos\ETicaretAPI\ETicaretAPI.Application\bin\Debug\net6.0\ETicaretAPI.Application.pdb
+C:\Users\krln_\source\repos\ETicaretAPI\ETicaretAPI.Application\bin\Debug\net6.0\ETicaretAPI.Domain.dll
+C:\Users\krln_\source\repos\ETicaretAPI\ETicaretAPI.Application\bin\Debug\net6.0\ETicaretAPI.Domain.pdb
+C:\Users\krln_\source\repos\ETicaretAPI\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.csproj.AssemblyReference.cache
+C:\Users\krln_\source\repos\ETicaretAPI\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krln_\source\repos\ETicaretAPI\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.AssemblyInfoInputs.cache
+C:\Users\krln_\source\repos\ETicaretAPI\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.AssemblyInfo.cs
+C:\Users\krln_\source\repos\ETicaretAPI\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\krln_\source\repos\ETicaretAPI\ETicaretAPI.Application\obj\Debug\net6.0\ETicaret.BBAD6852.Up2Date
+C:\Users\krln_\source\repos\ETicaretAPI\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.dll
+C:\Users\krln_\source\repos\ETicaretAPI\ETicaretAPI.Application\obj\Debug\net6.0\refint\ETicaretAPI.Application.dll
+C:\Users\krln_\source\repos\ETicaretAPI\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.pdb
+C:\Users\krln_\source\repos\ETicaretAPI\ETicaretAPI.Application\obj\Debug\net6.0\ref\ETicaretAPI.Application.dll
