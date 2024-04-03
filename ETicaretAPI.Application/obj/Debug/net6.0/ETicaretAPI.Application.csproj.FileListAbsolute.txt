@@ -13,3 +13,4 @@ C:\Users\krln_\source\repos\ETicaretAPI\ETicaretAPI.Application\obj\Debug\net6.0
 C:\Users\krln_\source\repos\ETicaretAPI\ETicaretAPI.Application\obj\Debug\net6.0\refint\ETicaretAPI.Application.dll
 C:\Users\krln_\source\repos\ETicaretAPI\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.pdb
 C:\Users\krln_\source\repos\ETicaretAPI\ETicaretAPI.Application\obj\Debug\net6.0\ref\ETicaretAPI.Application.dll
+C:\Users\krln_\source\repos\ETicaretAPI\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.sourcelink.json

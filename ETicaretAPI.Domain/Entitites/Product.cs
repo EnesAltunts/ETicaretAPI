@@ -13,7 +13,7 @@ namespace ETicaretAPI.Domain.Entitites
 
         public int Stock { get; set; }
 
-        public long Price { get; set; }
+        public int Price { get; set; }
 
         public ICollection<Order> Orders { get; set; }
     }
